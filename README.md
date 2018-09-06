@@ -6,7 +6,7 @@ properties of ellipsoidal geometry.
 ### Use
 
 ```c
- // Initial latitude or general area of calculation
+// Initial latitude or general area of calculation
 double lat0 = 39.952383;
 
 // Get multipliers based on latitude and unit multiplier
