@@ -1,0 +1,4 @@
+.vscode
+archive
+*.o
+*.s
