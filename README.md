@@ -25,7 +25,7 @@ double total_distance = ZGDIST_vdist(lats, lons, 3, m.latm, m.lonm);
 printf("%.4f km\n", total_distance); // 3.4325 km
 ```
 
-### To compile library:
+### Compilation
 
 #### Double precision
 ```shell
