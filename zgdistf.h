@@ -86,6 +86,7 @@
 #define ZGDIST_UNIT_M 1000.0F
 #define ZGDIST_UNIT_MI 0.62137119F
 #define ZGDIST_UNIT_FT 3280.84F
+#define ZGDIST_UNIT_NMI 0.5399568F
 
 // Functions
 #define ZGDIST_sqrt sqrtf
